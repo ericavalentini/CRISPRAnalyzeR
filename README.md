@@ -530,9 +530,9 @@ You can download the human reference genome (or mus musculus) and tell CRISPRAna
 
 __Step 1: Download the reference genome__  
 Download the reference genome you need
-* [Homo Sapiens](http://www.dkfz.de/signaling/crispr-downloads/DATABASES/homo_sapiens.tar.gz)
-* [Mus Musculus](http://www.dkfz.de/signaling/crispr-downloads/DATABASES/mus_musculus.tar.gz)
-* [Danio Rerio](http://www.dkfz.de/signaling/crispr-downloads/DATABASES/danio_rerio.tar.gz)
+* [Homo Sapiens](http://www.e-crisp.org/E-CRISP/CLD-DB/homo_sapiens.tar.gz)
+* [Mus Musculus](http://www.e-crisp.org/E-CRISP/CLD-DB/mus_musculus.tar.gz)
+* [Danio Rerio](http://www.e-crisp.org/E-CRISP/CLD-DB/danio_rerio.tar.gz)
 
 __Step 2: Extract the files to a folder (*DATABASEFOLDER*) of your desire__
 Extract the downloaded file using gunzip (macOS/Linux) or Zip (Windows) to a _*DATABASEFOLDER*_ of your desire.
